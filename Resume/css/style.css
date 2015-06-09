@@ -1,0 +1,163 @@
+*{
+  box-sizing: border-box;
+}
+
+
+#container{
+  font-family: 'Muli', sans-serif;
+  font-weight: 300;
+  width: 80%;
+  margin: 0 auto;
+  line-height: 20px;
+  border: 2px solid black;
+  padding: 10px;
+}
+
+
+header{
+  background: rgba(56, 127, 196, 0.5);
+  border: 2px solid black;
+  height: 200px;
+  padding:50px;
+  background-image: url("http://global.fncstatic.com/static/managed/img/Scitech/milkwaynasa.jpg");
+  color: white;
+  margin: 10px -10px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+header img{
+  position: absolute;
+  text-align: center;
+}
+
+
+nav{
+  text-align: center;
+  padding: 20px;
+}
+
+nav a{
+  color:white;
+  font-size: 16px;
+}
+
+nav li{
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+.headline{
+  text-align: center;
+}
+
+header h2{
+  font-size: 24px;
+}
+
+header h4 {
+  text-align: right;
+  font-size:18px;
+}
+
+section h2{
+  font-size: 13px;
+}
+
+section h3 {
+  font-size: 24px;
+  line-height: 33px;
+}
+
+section ul{
+  list-style:square;
+  list-style-position: inside;
+}
+
+section p{
+  font-size:12px;
+}
+
+section li{
+  font-size: 12px;
+}
+
+section a{
+  font-size:12px;
+}
+
+.boston{
+  float: right;
+}
+
+.may{
+  float: right;
+}
+
+.los-angeles{
+  float: right;
+}
+
+#experience{
+  background-image: url("http://global.fncstatic.com/static/managed/img/Scitech/milkwaynasa.jpg");
+  color:white;
+  text-align: center;
+  margin-top: 10px;
+  margin: 10px -10px;
+  border: 2px solid black;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#education{
+  background-image: url("http://global.fncstatic.com/static/managed/img/Scitech/milkwaynasa.jpg");
+  color:white;
+  text-align: center;
+  margin-top: 10px;
+  margin: 10px -10px;
+  border: 2px solid black;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#awards{
+  background-image: url("http://global.fncstatic.com/static/managed/img/Scitech/milkwaynasa.jpg");
+  color:white;
+  text-align: center;
+  margin-top: 10px;
+  margin: 10px -10px;
+  border: 2px solid black;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#skills{
+  background-image: url("http://global.fncstatic.com/static/managed/img/Scitech/milkwaynasa.jpg");
+  color:white;
+  text-align: center;
+  margin-top: 10px;
+  margin: 10px -10px;
+  border: 2px solid black;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+footer{
+  background: rgba(56, 127, 196, 0.5);
+  border: 2px solid black;
+  height: 200px;
+  padding:50px;
+  background-image: url("http://davemorrowphotography.smugmug.com/Bestof/Portfolio/i-9WfNDJx/8/XL/When%20Worlds%20Collide-XL.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% -270%;
+  background-size: 100% 100%;
+  margin: 10px -10px;
+  text-align: center;
+  font-size:24px;
+  background-attachment: fixed;
+}
+
+footer a{
+  color: white;
+}
