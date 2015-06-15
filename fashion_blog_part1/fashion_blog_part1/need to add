@@ -1,0 +1,30 @@
+<aside class="ad">
+  <o>AD</p>
+</aside>
+<aside class="popular-posts">
+  <ul>
+    <li>10 Things Not To Wear On The Red Carpet</li>
+    <li>Valhalla At The Met Gala</li>
+    <li>Jeans:To Fray or Not To Fray</li>
+    <li>"Trashion" Is In This Season</li>
+    <li>Back to School in Pencil Skirts</li>
+    <li>Fall Season Preview</li>
+    <li>Even More Ways to Wrap a Sari!</li>
+    <li>I Steam Punk Here to Stay?</li>
+    <li>Neighborhoodie Watch</li>
+    <li>Hair Styles of the Damned</li>
+  </ul>
+<aside>
+
+<footer>
+  <nav class="footer">
+    <a href="#">Home</a>
+    <a href="#">Women’s</a>
+    <a href="#">Men’s</a>
+    <a href="#">On the Street</a>
+    <a href="#">The Catwalk</a>
+    <a href="#">AdWatch</a>
+    <a href="#">About</a>
+  </nav>
+  <p>&copy; 2013 Valet Industries, Inc. </p>
+</footer>

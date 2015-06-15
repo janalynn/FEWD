@@ -1,0 +1,57 @@
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+/* Center the container */
+body {
+	width: 100%;
+  height:100%;
+	margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Lato', sans-serif;
+  padding: relative;
+}
+
+
+#container{
+  width:90%;
+  margin: 46px 53px;
+  padding: 7px;
+}
+
+header a {
+  text-decoration: none;
+  font-size: 60px;
+  color: red;
+  font-weight: 100;
+}
+
+header h2 {
+  color: black;
+}
+
+article h3 {
+  font-size: 40px;
+  font-weight: 100;
+  color: #E5E5E5;
+}
+
+article a {
+  color: black;
+  font-size: 40px;
+  text-decoration: none;
+  font-weight: 100;
+}
+
+.about-us{
+  width:
+  float:right;
+}
+
+p::first-letter {
+  font-size: 60px;
+  color: #E5E5E5;
+}
