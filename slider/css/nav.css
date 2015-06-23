@@ -1,0 +1,21 @@
+nav {
+  background-color: #4F4F4E;
+  width: 0px;
+  height: 100%;
+  float: left;
+  transition: all 0.4s ease;
+}
+
+nav li{
+  color: white;
+  border-bottom: 1px solid white;
+  font-size: 16px;
+  line-height: 60px;
+}
+
+#hamburger{
+  width: 50px;
+  height: 50px;
+  position:absolute;
+  z-index: 10;
+}
