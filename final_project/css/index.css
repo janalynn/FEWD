@@ -1,7 +1,32 @@
-p{
-  margin: 2% 14%;
+
+.home {
+  margin-top: 10%;
+}
+
+.paragraph {
+  margin: 2% 25%;
   width: 45%;
   text-align: justify;
+}
+
+.start {
+  font-size: 28px;
+  font-weight: 200;
+  font-style: italic;
+  padding-bottom: 10%;
+  position: relative;
+}
+
+.end {
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 200;
+  position: relative;
+  padding-top: 10%;
+}
+
+.one{
+  padding-bottom: 30px;
 }
 
 
@@ -10,4 +35,5 @@ p{
   position: relative;
   bottom: 212px;
   right: 208px;
+  width: 15%;
 }

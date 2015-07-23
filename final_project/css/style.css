@@ -1,18 +1,23 @@
 body {
-  font-family: 'Libre Baskerville', serif;
-  margin: 2% 5%;
+  font-family: 'Raleway', sans-serif;
+  color: rgba(88, 53, 104, 1);
+  line-height: 20px;
+  background-color: rgba(132, 191, 99, .3);
 }
 
+
 .header h1 {
-  color: #583568;
-  font-weight: bold;
-  font-size: 30px;
-  margin: 5px;
+  position: relative;
+  bottom: 39px;
+  color: white;
+  font-size: 27px;
 }
+
 
 .header img {
   background-repeat: no-repeat;
   width: 100%;
+  opacity: .9;
 }
 
 .nav li {
@@ -23,25 +28,30 @@ body {
 
 .nav a{
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 .nav {
-  background-color: #583568;
+  background-color: rgba(132, 191, 99, .8);
   height: 40px;
   position: relative;
-  bottom: 6px;
+  bottom: 27px;
 }
 
 .dropdown-menu{
   display: none;
-  background-color: white;
+  background-color: rgba(255, 255, 255, .6);
   position: absolute;
   margin: 0px;
-  border: black 1px solid;
+  border: white 1px solid;
+  border-radius: 5px;
 }
 
 .dropdown-menu li{
   float: none;
   margin-left: 0px;
+}
+
+.dropdown-menu a{
+  color: rgba(88, 53, 104, 1);
 }
