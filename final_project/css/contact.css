@@ -2,23 +2,23 @@ body {
     margin-bottom: 15%;
 }
 
-h3 {
-  font-size: 24px;
-  padding-bottom: 10px;
-}
-
-.about ul {
-  list-style-type: square;
-  width: 75%;
-  margin-left: 2%;
-  text-align: justify;
-}
-
-.about{
+.contact {
   text-align: justify;
   margin-left: 30%;
   margin-top: 10%;
   width: 75%;
+}
+
+h2{
+  font-size: 20px;
+}
+
+.phone {
+  padding-top: 10px;
+}
+
+.address {
+  padding-top: 10px;
 }
 
 form {

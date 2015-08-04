@@ -3,37 +3,44 @@
     <head>
       <title>Susan Levin MFT</title>
       <link rel="stylesheet" href="css/reset.css">
+      <link href='http://fonts.googleapis.com/css?family=Raleway:400,700,200' rel='stylesheet' type='text/css'>
       <link rel="stylesheet" href="css/style.css">
       <link rel="stylesheet" href="css/index.css">
-      <link href='http://fonts.googleapis.com/css?family=Raleway:400,700,200' rel='stylesheet' type='text/css'>
     </head>
 
     <body>
       <div class="header">
         <h1> Susan Levin M.A., MFT </h1>
-        <img src="css/img/bamboo.jpg">
       </div>
 
       <div class="nav">
         <ul>
           <li><a href="index.html">Home</a></li>
-          <li><a href="">Services &#9660;</a></li>
-          <!--dropdown menu-->
+          <li id="services"><a href="services.html">Services &#9660; </a>
+            <ul class="dropdown-menu">
+              <li><a href="individuals.html">Individuals</a></li>
+              <li><a href="couples.html">Couples</a></li>
+              <li><a href="adolescents.html">Adolescents</a></li>
+              <li><a href="gambling.html">Gambling</a></li>
+            </ul>
+          </li>
           <li><a href="about.html">About</a></li>
           <li><a href="contact.html">Contact</a><li>
-          <!--search bar-->
         </ul>
+        <form>
+          <input type="text" placeholder="Search..." required>
+          <input type="button" value="Search">
+        </form>
       </div>
-
 
       <section class ="couples">
 
         <div class="couples">
           <h3> Couples </h3>
           <p>Couples face many transitions as they build a life together. We will work together to develop an understanding of each other&#39;s emotional triggers, learn new communication skills, and acquire an awareness of how to better operate as a team. These insights enable the ability to live more positive and happy lives.</p>
-          <img src="css/img/couples.jpg">
+          <img src="css/img/coup.jpg">
         </div>
-
+      </section>
       <script src="js/app.js"></script>
     </body>
   </html>
